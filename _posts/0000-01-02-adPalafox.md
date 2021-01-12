@@ -2,5 +2,5 @@
 layout: slide
 title: Welcome to our second slide!
 ---
-your text
+"code for people to understand"
 use the left arrow to go back
